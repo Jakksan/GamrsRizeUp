@@ -14,6 +14,7 @@
   -	In our website, we will have two types of users: general and admin. General users will be able to create a post, reply to other posts, and delete their own posts. 
  
 Admins will be able to do the same things that general users can do as well as delete anyone’s posts (if they violate rules), reset a user’s password, and ban users. 
+
 	Note: The reason why we need the separate admin type of accounts is because we need the admins to moderate the discussions and help general users with any account issues.
 
 •	Initial roles and tasks of each members:
